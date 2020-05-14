@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-RGRMH5E</Machine>
+    <WindowsUser>shara</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>e7209d13-506e-4868-a1a6-ed975400b39f</PackageIdentityName>
+    <PackageIdentityPublisher>CN=shara</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>106469E12CC88E7A358B5E06E951AE44E28BA4D2A668700B0CF0C2993E591B88</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e7209d13-506e-4868-a1a6-ed975400b39f_1.0.0.0_x86__v6y00w1c367ya</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e7209d13-506e-4868-a1a6-ed975400b39f_v6y00w1c367ya!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e7209d13-506e-4868-a1a6-ed975400b39f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=shara</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T02:13:42.068</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\bin\x86\Debug\UWPMusicLibrary.exe">
+      <PackagePath>entrypoint\UWPMusicLibrary.exe</PackagePath>
+      <Modified>2020-05-14T02:13:41.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.9\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2019-07-22T21:01:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2019-03-19T01:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\Assets\Audio\Instrumental\Guitar.mp3">
+      <PackagePath>Assets\Audio\Instrumental\Guitar.mp3</PackagePath>
+      <Modified>2020-05-13T08:36:02.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\Assets\Audio\Instrumental\Harp.mp3">
+      <PackagePath>Assets\Audio\Instrumental\Harp.mp3</PackagePath>
+      <Modified>2020-05-13T08:36:02.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\Assets\Audio\Instrumental\Piano.mp3">
+      <PackagePath>Assets\Audio\Instrumental\Piano.mp3</PackagePath>
+      <Modified>2020-05-13T08:36:02.427</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\Assets\Audio\SleepMusic\lullabygoodnight.mp3">
+      <PackagePath>Assets\Audio\SleepMusic\lullabygoodnight.mp3</PackagePath>
+      <Modified>2020-05-13T08:36:02.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\Assets\Audio\SleepMusic\rockabyebaby.mp3">
+      <PackagePath>Assets\Audio\SleepMusic\rockabyebaby.mp3</PackagePath>
+      <Modified>2020-05-13T08:36:02.445</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\Assets\Audio\SleepMusic\twinkle.mp3">
+      <PackagePath>Assets\Audio\SleepMusic\twinkle.mp3</PackagePath>
+      <Modified>2020-05-13T08:36:02.453</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\Assets\Icons\create.png">
+      <PackagePath>Assets\Icons\create.png</PackagePath>
+      <Modified>2020-05-13T06:11:22.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\Assets\Icons\home.png">
+      <PackagePath>Assets\Icons\home.png</PackagePath>
+      <Modified>2020-05-13T02:46:46.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\Assets\Icons\mylibrary.png">
+      <PackagePath>Assets\Icons\mylibrary.png</PackagePath>
+      <Modified>2020-05-12T23:41:34.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\Assets\Icons\search.png">
+      <PackagePath>Assets\Icons\search.png</PackagePath>
+      <Modified>2020-05-12T23:34:20.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\Assets\Images\Instrumental\Instrumental.png">
+      <PackagePath>Assets\Images\Instrumental\Instrumental.png</PackagePath>
+      <Modified>2020-05-13T10:07:43.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\Assets\Images\Lullabies\Lullabies.png">
+      <PackagePath>Assets\Images\Lullabies\Lullabies.png</PackagePath>
+      <Modified>2020-05-13T08:46:13.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2020-04-04T16:41:45.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-04T16:41:45.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-04T16:41:45.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-04T16:41:45.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-04T16:41:45.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-04T16:41:45.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-04T16:41:45.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2020-05-12T21:16:27.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\bin\x86\Debug\UWPMusicLibrary.xr.xml">
+      <PackagePath>UWPMusicLibrary.xr.xml</PackagePath>
+      <Modified>2020-05-14T02:10:47.313</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2020-05-13T09:33:42.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2020-05-14T02:13:41.018</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2019-03-19T00:33:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-05-13T09:54:30.321</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shara\source\repos\Kal_SDBoot\UWPMusicLibrary\bin\x86\Debug\Core\UWPMusicLibrary.exe">
+      <PackagePath>UWPMusicLibrary.exe</PackagePath>
+      <Modified>2020-05-14T02:13:42.060</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27909.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27909.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27909.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27909.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27909.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27909.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
